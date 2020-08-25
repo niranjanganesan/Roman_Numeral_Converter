@@ -1,6 +1,6 @@
 import re
 
-# Exceptions class
+# Exception handling class
 class RomanError(Exception):
     pass
 
